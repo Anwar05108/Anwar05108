@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- # <h1 align="center">Hi, I'm </h1>
+ # <h1 align="center">Hi, I'm Anwar Sharif</h1>
 
  
  
@@ -9,7 +9,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anwar05108&label=Profile%20views&color=0e75b6&style=flat" alt="Anwar05108" /></p> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Anwar05108.Anwar05108)
+![Anwar Sharif](https://visitor-badge.glitch.me/badge?page_id=Anwar05108.Anwar05108)
  
 ![Anwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anwar05108&show_icons=true&theme=radical)<br><br>
  
